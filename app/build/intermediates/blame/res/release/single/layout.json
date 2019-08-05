@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_help.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_navigation_drawer.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\areabutton.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\areabutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_messages.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_group_sms_new_message.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_group_sms_new_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\feedback.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\groupsmsarea.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragmentsetting.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragmentsetting.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\noticeboard.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\noticeboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_group_fav.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\user_group_fav.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\groupsmsareawise.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsareawise.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_userlist.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_userlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\all_notice.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\all_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_phone_number_validation.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_phone_number_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_group_sms_sending.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_group_sms_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\nav_drawer_row.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_phonebook.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_phonebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_friends.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\userinformation.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\userinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_row.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\groupsmsemailfavlist.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsemailfavlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\search_user.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\search_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\group_sms_email.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\group_sms_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_single_notice.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_single_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\no_user.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\no_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\groupsmsemail_design.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsemail_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\gruop_sms_des_list.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\gruop_sms_des_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\toolbar.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\single_user.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\single_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_singlenoticeimage.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\layout\\activity_singlenoticeimage.xml"
+    }
+]

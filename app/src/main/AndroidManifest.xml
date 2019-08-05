@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Pisystems.dofphonebook" >
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Digital Phonebook (DoF)"
+        android:theme="@style/MyMaterialTheme"
+        android:largeHeap="true">
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="Digital Phonebook(DoF)"
+            android:windowSoftInputMode="adjustPan"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".activity.SplashActivity"
+            android:label="Digital Phonebook (DoF)"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.singlenoticeimage"
+            android:label="@string/title_activity_singlenoticeimage" >
+        </activity>
+
+        <activity
+            android:name=".activity.GroupSmsNewMessage"
+            android:label="@string/title_activity_singlenoticeimage" >
+        </activity>
+
+        <activity
+            android:name=".activity.GroupSmsSending"
+            android:label="@string/title_activity_singlenoticeimage"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <service
+            android:name=".activity.NoticeService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <receiver
+            android:name=".activity.AlertReceiver"
+            android:enabled="true"
+            android:exported="true" >
+        </receiver>
+
+        <service
+            android:name=".activity.NoticeIntentService"
+            android:exported="false" >
+        </service>
+
+        <activity
+            android:name=".activity.PhoneNumberValidation"
+            android:label="@string/title_activity_phone_number_validation"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <service
+            android:name=".activity.MyService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":remote" >
+        </service>
+        <service
+            android:name=".activity.MyNotice"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <receiver android:name=".activity.MyReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+                <action android:name="android.intent.action.REBOOT" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".activity.UpdateData"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":remote" >
+        </service>
+    </application>
+
+</manifest>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.2.1_4584325f0cbbebe617d0dc1a87589b0bc5a4d7af.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\internal_impl-23.2.1_fda81e6e2a862714cd7ec32b3023851c28a6700b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.1_22107ad16de2fc83da0b0152f4e557d8dc6b9820.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.0_baf4f7c2a56a091a61cd5d0da02bdb49ed581b99.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\picasso-2.5.2_2c7cd74ebf44cdd7b156308fd70ac47c5eaef567.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.0_7207f0922be03d3aaeb017919d28a01a9e6e5637.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.joanzapata.pdfview\android-pdfview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\com.joanzapata.pdfview-android-pdfview-1.0.4_5a6ffa6eb7e8e73fc13af38f90904296c72642a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\support-annotations-23.2.1_e6022c5f48aedb632f57ac5a7c58f6e8b1599c8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\sagor\Desktop\dofphonebook\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.0_0d0cf19d21b4a0e64580d59c4aa46a3fbe029609.jar" />
+    </item>
+
+</items>

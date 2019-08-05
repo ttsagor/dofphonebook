@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:fillViewport="true"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="হেল্প লাইন "
+                android:background="@android:color/holo_orange_light"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:text="ফোনঃ ০১৯১৪৮১১১১৮"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="21dp"
+                android:text="ইমেইলঃ aamkadir@gmail.com"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="মেন‌্যু"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="হোম পেজে উপরে বামদিকে একটি সাদা চতুস্কোণ বাটন আছে। এতে চাপ দিলে মেন‌্যু ওপেন হবে।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="মেন‌্যু কার্যকারিতা "
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="হোমঃ এই অপশনে চাপ দিলে আপনি আবার হোম পেজে চলে  যাবেন।"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="আমার প্রোফাইলঃ এখানে আপনি আপনার নিজের তথ‌্য দেখেতে পারবেন। নিজ নিজ তথ‌্য শেয়ার করার জন‌্য এটি সহজতম যায়গা।"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="ফিডব‌্যাকঃ  এখানে থেকে আপনি কোন তথ‌্য হালনাগাদ বা পরির্বতনের অনুরোধ জানাতে পারবেন।"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="প্রযুক্তি সহযোগিতায়ঃ এই অ‌্যাপ্লিকেশন ডেভেলপার কোম্পানির তথ‌্য আপনি এখান থেকে জানতে পারবেন।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="হোম পেজ"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="এখানে থেকে অ‌্যাপ্লিকেশনের পাঁচটি অংশে যাবার বাটন রয়েছে। অংশ গুলো যথাক্রম ফোনবুক, নোটিশ বোড, গ্রুপ এসএমএস/ইমেইল, সহযোগিতা ও ফেবারিট।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="ফোনবুক"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="এই অংশে আপনি কর্মকতাগনের সাথে যোগাযোগের জন‌্য প্রয়োজনীয় যাবতীয় তথ‌্য পাবেন। হোম পেজ থেকে ফোনবুক বাটনে চাট দিলেই আপনি এই অংশে প্রবেশ করতে পারবেন। ফোনবুকের প্রতিটি পেজেই নাম ও ফোন নাম্বার অনুসন্ধান করার সুবিধা রয়েছে। পেজের উপরের দিকে অনুসন্ধান করুন লেখাটির উপরে ও ক্লিক করে নাম অথবা ফোন নাম্বার লিখলেই সে অনুযায়ী তালিকা পেয়ে যাবেন। ফোনবুকটিতে যাবতীয় তথ‌্য মন্ত্রণালয় ও অধিদপ্তর অনুযায়ী ভাগ করা আছে। মন্ত্রণালয় ও অধিদপ্তরে চাপ দিলে আপনি এর ক্ষুদ্রতর বিভাগটিতে যেতে পারবেন। যেমন মৎস অধিদপ্তর বাটনে চাপ দিলে আপনি তিনটি অপশন পাবেন, যথাক্রমে প্রধানকার্যালয়, প্রকল্পসমূহ ও বিভাগীয় দপ্তরসমূহ। আপনার প্রয়োজনীয় ব‌্যক্তির তথ‌্যের জন‌্য তিনি যে কার্যালয়ে কর্ম্রত সে অনুযায়ী পরবর্তী ক্ষুদ্রতম বিভাগে চলে যেতে পারবেন।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="ফোনকরা ও বিস্তারিত তথ‌্যঃ"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="সকল কর্মকর্তাগণের নামের পাশে একটি ফোনবাটন ও একটি বিস্তারিত বাটন দেয়া আছে। ফোন বাটনে চাপ দিলে সরাসরি কল চলে যাবে। বিস্তারিত বাটন আপনাকে নিয়ে যাবে আরেক টি পেজে, যেখানে ঐ কর্মকর্তার নাম, পদবী ও কার্যালয়ের ঠিকানার পাশাপাশি মোবাইল নাম্বার, টেলিফোন নাম্বার, ইমেইল ও ম‌্যাপ তার কার্যালয়ের অবস্থান দেখা যাবে। এই সকল তথ‌্যের পাশে অ‌্যাকশান বাটন দেয়া রয়েছে। আপনার প্রয়োজন অনুযায়ী অ‌্যাকশান বাটনে চাপ দিয়ে কাজ সম্পন্ন করুন।"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="বিস্তারিত তথ‌্যের পেজের নিচের দিকে আরও চারটি অ‌্যাকশান বাটন রয়েছে। নিচে তাদের কার্যকারিতা বর্ণনা করা হল।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="সেভ করুনঃ"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="এখানে চাপ দিলে যাবতীয় তথ‌্য আপনার ফোনে সেখ করার অনুমতি চাইবে। আপনি ওকে করলে তা আপনার মোবাইলে সেভ হয়ে যাবে।"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="শেয়ার করুনঃ"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="এই বাটনে চাপ দিয়ে আপনি তথ‌্য সমূহ প্রয়োজনে অন‌্য কারো সাথে অ‌্যাপ্লিকেশান এর সাহায‌্য শেয়ার করতে পারবেন।"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="ফেবারিটঃ "/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="যাদের সাথে নিয়মিত যোগাযোগের প্রয়োজনে হয় তাদরকে ফেবারিট তালিকায় যোগ করতে এই বাটনটি চাপুন। পরবর্তী হোম পেজ থেকে সহজেই এই তালিকায় থাকা ব‌্যক্তিবর্গের সাথে যোগাযোগ করতে পারবেন।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="ফিডব‌্যাকঃ"
+                android:background="@android:color/holo_blue_dark"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="প্রদর্শিত তথ‌্য কোন গরমিল থাকলে বা হলনাগাদ করার প্রয়োজন বোধে এখান থেকে যোগাযোগ করতে পারেন।"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="নোটিশ বোর্ডঃ "
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="মন্ত্রণালয় ও অধিদপ্তরের যে কোন আদেশ বা বিজ্ঞপ্তি এখান থেকে দেখা যাবে। এই পেজের উপরের দিকে ফোনবুকের মতই বিষয়বস্তু দিতে অনুসন্ধান করার সুবিধা রয়েছে।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="গ্রুপ এসএমএ/ইমেইলঃ"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="এই বিভাগে আপনি নির্দিষ্ট কোন দপ্তর বা এলাকায় কর্মরত সকল কর্মকর্তাদের একবারে এস এম এস ইমেইল করতে পারবেন। এক্ষেত্রে যেকোনো দপ্তর বা এলাকার যান পাশের চেক বক্স সিলেক্ট করে প্রয়োজন অনুযায়ী নিচে পদত্ত এসএমএস বা ইমেইল বাটনে চাপ দিলে সকল ফোন নাম্বার বা ইমেইল একবারে প্রাপক তালিকায় চলে আসবে।"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="সহযোগিতাঃ"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="অ‌্যাপ্লিকেশানটি কিভাবে করা যায় তা বিস্তারিত বর্ণনা করা আছে এই বিভাগে।"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:text="ফেবারিটঃ"
+                android:background="@android:color/holo_blue_dark"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="হোম পেজের এই ফেবারিট বাটন থেকে আপনার নির্বাচিত ব‌্যক্তিবর্গের তালিকা দেখতে পারবেন। এত করে তাদের সাথে নিয়মিত যোগাযোগ হয় তাদের বরাবর ফোনবুক থেকে খুজে বেরকরার প্রয়োজন হবেনা।"/>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\tranlatebt.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\tranlatebt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\tanslater.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\tanslater.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\translatetb.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\translatetb.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\alpha.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\tanslatelrr.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\tanslatelrr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\translatelr.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\translatelr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\fadein.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\translate.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\translatetbr.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\translatetbr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\fadeout.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\translatelrn.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\translatelrn.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\build\\intermediates\\res\\merged\\release\\anim\\translatebtr.xml",
+        "source": "C:\\Users\\sagor\\Desktop\\dofphonebook\\app\\src\\main\\res\\anim\\translatebtr.xml"
+    }
+]
