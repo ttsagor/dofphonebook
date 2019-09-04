@@ -1,14 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-vector-drawable:23.2.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/aa385f65cffa2474ef8524741b8856f5e1239776/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/aa385f65cffa2474ef8524741b8856f5e1239776/output/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0eb8107f37109270702ed5b663d04660/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0eb8107f37109270702ed5b663d04660/res" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-vector-drawable/23.2.0/support-vector-drawable-23.2.0-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-vector-drawable/23.2.0/support-vector-drawable-23.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-vector-drawable/23.2.0/ca23f3f285c146b6c352ae4495420528e8e7175b/support-vector-drawable-23.2.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

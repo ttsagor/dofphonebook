@@ -32,14 +32,23 @@
             android:inputType="phone"
             android:maxLength="11"
             android:id="@+id/userphonenumber"
-            android:gravity="center" />
+            android:gravity="center"
+            android:enabled="false"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="OK"
             android:id="@+id/phonenumberconfirm"
-            android:gravity="center"/>
+            android:gravity="center"
+            android:enabled="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="ভার্সন আপডেটের জন্য সাময়িক ভাবে বন্ধ রয়েছে"
+            android:gravity="center"
+            android:textColor="#FF0000"/>
     </LinearLayout>
     <View
         android:layout_width="match_parent"
