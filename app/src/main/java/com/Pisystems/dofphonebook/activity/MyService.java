@@ -1,11 +1,16 @@
 package com.Pisystems.dofphonebook.activity;
 
 import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.app.Service;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
+import android.os.Build;
 import android.os.IBinder;
 import android.support.v7.app.NotificationCompat;
 
@@ -78,9 +83,26 @@ public class MyService extends Service {
         }
 
         public void notifyMessage() {
-            NotificationCompat.Builder builder = getNotificationBuilder(SplashActivity.class);
-            startForeground(NOTIFICATION_ID, builder.build());
 
+            NotificationCompat.Builder builder = getNotificationBuilder(SplashActivity.class);
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                startMyOwnForeground(builder);
+            }
+            else {
+                startForeground(NOTIFICATION_ID, builder.build());
+            }
+        }
+
+        private void startMyOwnForeground(NotificationCompat.Builder notificationBuilder) {
+            String NOTIFICATION_CHANNEL_ID = "com.example.simpleapp";
+            String channelName = "My Background Service";
+            NotificationChannel chan = new NotificationChannel(NOTIFICATION_CHANNEL_ID, channelName, NotificationManager.IMPORTANCE_NONE);
+            chan.setLightColor(Color.BLUE);
+            chan.setLockscreenVisibility(Notification.VISIBILITY_PRIVATE);
+            NotificationManager manager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+            assert manager != null;
+            manager.createNotificationChannel(chan);
+            startForeground(NOTIFICATION_ID, notificationBuilder.build());
         }
 
         protected NotificationCompat.Builder getNotificationBuilder(Class clazz) {

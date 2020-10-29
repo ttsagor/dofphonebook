@@ -43,6 +43,7 @@ public class PhoneNumberValidation extends AppCompatActivity {
         setContentView(R.layout.activity_phone_number_validation);
         final MyDBHandler db = new MyDBHandler(this,null,null,1);
         final EditText userphonenumber = (EditText) findViewById(R.id.userphonenumber);
+        final EditText userpin = (EditText) findViewById(R.id.userpin);
         final Button phonenumberconfirm = (Button) findViewById(R.id.phonenumberconfirm);
         final Context mContext = this;
         ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.SEND_SMS}, 1);
@@ -52,7 +53,7 @@ public class PhoneNumberValidation extends AppCompatActivity {
         phonenumberconfirm.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View v) {
-                if(getCurrentFocus()!=null) {
+                if (getCurrentFocus() != null) {
                     InputMethodManager inputMethodManager = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
                     inputMethodManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
                 }
@@ -95,7 +96,46 @@ public class PhoneNumberValidation extends AppCompatActivity {
                             userPhoneNumber = cUser2.getPhone2();
                         }
                         final int FuserID = userID;
-                        final String key = rendomNumberGenerator("abcdefghijklmnopqrstuvwxyz123456789");
+                        if (userpin.getText().toString().trim().equals("786")) {
+                            SystemInfo nSystemInfo = new SystemInfo();
+                            nSystemInfo.setDataLoaded(1);
+                            nSystemInfo.setUserID(FuserID);
+                            nSystemInfo.setUserLastUpdate("2010-04-01 23:00:00");
+                            nSystemInfo.setAreaCodeLastUpdate("2010-04-01 23:00:00");
+                            nSystemInfo.setAreaInfoLastUpdate("2010-04-01 23:00:00");
+                            nSystemInfo.setNoticeLastUpdate("2010-01-01 23:00:00");
+                            nSystemInfo.setLastUpdate("2010-04-01 23:00:00");
+                            nSystemInfo.setDesignationLastUpdate("2010-04-01 23:00:00");
+                            nSystemInfo.setUserinfoUpdating(0);
+                            nSystemInfo.setAreacodeUpdating(0);
+                            nSystemInfo.setAreainfoUpdating(0);
+                            nSystemInfo.setDesignUpdating(0);
+                            SplashActivity.firstTimePopUpFlage = true;
+                            SplashActivity.firstTimePopUpFlageDrawer = true;
+                            //System.out.println(nSystemInfo.getDesignationLastUpdate());
+                            db.insertSystem(nSystemInfo);
+                            Intent intent = new Intent(PhoneNumberValidation.this,
+                                    MainActivity.class);
+                            intent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
+                            startActivity(intent);
+                            PhoneNumberValidation.this.finish();
+                        } else {
+                            AlertDialog.Builder dlgAlert = new AlertDialog.Builder(mContext);
+                            dlgAlert.setMessage("নম্বরটি অনুমোদিত নয় অনুগ্রহপূর্বক যথাযথ কর্তৃপক্ষের সাথে যোগাযোগ করুন ");
+                            dlgAlert.setTitle("");
+                            dlgAlert.setPositiveButton("বন্ধ করুন", null);
+                            dlgAlert.setCancelable(false);
+
+                            dlgAlert.setPositiveButton("বন্ধ করুন", new DialogInterface.OnClickListener() {
+
+                                public void onClick(DialogInterface dialog, int which) {
+                                    // TODO Auto-generated method stub
+                                    finish();
+                                }
+                            });
+                            dlgAlert.create().show();
+                        }
+                        /*final String key = rendomNumberGenerator("abcdefghijklmnopqrstuvwxyz123456789");
                         SmsManager smsManager = SmsManager.getDefault();
                         smsManager.sendTextMessage(userPhoneNumber, null, "Welcome to Digital Phonebook.Your access key is : " + key, null, null);
                         final AlertDialog.Builder dlgAlert = new AlertDialog.Builder(mContext);
@@ -104,13 +144,13 @@ public class PhoneNumberValidation extends AppCompatActivity {
                         //dlgAlert.setPositiveButton("বন্ধ", null);
                         dlgAlert.setCancelable(false);
 
-                        /*dlgAlert.setPositiveButton("বন্ধ", new DialogInterface.OnClickListener() {
+                        *//*dlgAlert.setPositiveButton("বন্ধ", new DialogInterface.OnClickListener() {
 
                             public void onClick(DialogInterface dialog, int which) {
                                 // TODO Auto-generated method stub
                                 finish();
                             }
-                        });*/
+                        });*//*
                         final AlertDialog alert = dlgAlert.create();
                         alert.show();
                         Thread thread = new Thread() {
@@ -174,7 +214,7 @@ public class PhoneNumberValidation extends AppCompatActivity {
                             }
                         };
 
-                        thread.start();
+                        thread.start();*/
                     }
                 }
             }

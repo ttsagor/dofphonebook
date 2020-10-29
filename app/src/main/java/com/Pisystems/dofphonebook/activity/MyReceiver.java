@@ -12,8 +12,12 @@ public class MyReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
         if ("android.intent.action.BOOT_COMPLETED".equals(intent.getAction())) {
-            Intent myIntent = new Intent(context, com.Pisystems.dofphonebook.activity.MyService.class);
-            context.startService(myIntent);
+            try {
+                Intent myIntent = new Intent(context, com.Pisystems.dofphonebook.activity.MyService.class);
+                context.startService(myIntent);
+            } catch (Exception e) {
+
+            }
         }
         //Toast.makeText(context.getApplicationContext(), "অনুগ্রহক পূর্বক কোন  এলাকা/এলাকাসমূহ সিলেক্ট করুন", Toast.LENGTH_LONG).show();
     }

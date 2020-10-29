@@ -1,10 +1,12 @@
 package com.Pisystems.dofphonebook.activity;
 
+import android.Manifest;
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -52,10 +54,16 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         getSupportActionBar().setIcon(R.mipmap.ic_launcher);
 
 
-        if(!isMyServiceRunning(MyService.class)) {
-        Intent i = new Intent(this, MyService.class);
-        i.setAction(Constants.ACTION.STARTFOREGROUND_ACTION);
-        startService(i);}
+
+        if (!isMyServiceRunning(MyService.class)) {
+            try {
+                Intent i = new Intent(this, MyService.class);
+                i.setAction(Constants.ACTION.STARTFOREGROUND_ACTION);
+                startService(i);
+            } catch (Exception e) {
+
+            }
+        }
 
         drawerFragment = (FragmentDrawer)
                 getSupportFragmentManager().findFragmentById(R.id.fragment_navigation_drawer);

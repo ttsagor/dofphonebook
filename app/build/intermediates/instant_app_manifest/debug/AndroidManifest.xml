@@ -6,7 +6,7 @@
     android:versionName="1.1" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="26"
         android:targetSdkVersion="28" />
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
@@ -16,6 +16,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <application
         android:allowBackup="true"
@@ -23,6 +24,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="Digital Phonebook (DoF)"
         android:largeHeap="true"
+        android:testOnly="true"
         android:theme="@style/MyMaterialTheme" >
         <activity
             android:name="com.Pisystems.dofphonebook.activity.MainActivity"

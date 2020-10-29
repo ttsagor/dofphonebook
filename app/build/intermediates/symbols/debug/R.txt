@@ -763,8 +763,9 @@ int id userList 0x7f0800ed
 int id user_row_layout 0x7f0800ee
 int id user_row_layout_text 0x7f0800ef
 int id userphonenumber 0x7f0800f0
-int id withText 0x7f0800f1
-int id wrap_content 0x7f0800f2
+int id userpin 0x7f0800f1
+int id withText 0x7f0800f2
+int id wrap_content 0x7f0800f3
 int integer abc_config_activityDefaultDur 0x7f090000
 int integer abc_config_activityShortDur 0x7f090001
 int integer abc_max_action_buttons 0x7f090002

@@ -1,0 +1,1442 @@
+[
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_messages.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update_icon.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\update_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_off_mtrl.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_phone_number_validation.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\menu\\menu_phone_number_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_copy_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_page.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\page.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_border.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\background_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_map_new.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\google_map_new.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_tranlatebt.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\tranlatebt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_userinformation.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\userinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_splash.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\menu\\menu_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_singlenoticeimage.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\menu\\menu_singlenoticeimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_icon.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icapps.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\icapps.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_row.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\user_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_full_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sms.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\sms.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobile_email_icon_au.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\mobile_email_icon_au.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_sms1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\home_sms1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_sms_new_message.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_group_sms_new_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_group_fav.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\user_group_fav.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_translatetbr.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\translatetbr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_sms_email.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\group_sms_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_map.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\google_map.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_groupsmsareawise.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsareawise.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_icon_au.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\email_icon_au.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_alpha.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locationemail_icon_au.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\locationemail_icon_au.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favourite.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_noticeboard.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\noticeboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_us_icon.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\about_us_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_sms_sending.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_group_sms_sending.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_tanslater.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\tanslater.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_groupsmsemail_design.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsemail_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedback.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_telephone.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_translatetb.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\translatetb.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bg.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_mail.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\send_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_translatelr.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\translatelr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_phonebook.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_phonebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_user.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\search_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone_number_validation.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_phone_number_validation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_translate.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_drawer_row.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\nav_drawer_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favourite1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\favourite1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_notice.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\all_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_www_icon_au.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\www_icon_au.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_translatelrn.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\translatelrn.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_mail.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\user_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fishermen_background.jpg.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\fishermen_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_feedback.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_header.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\image_header.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_groupsmsemailfavlist.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsemailfavlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_on_mtrl.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listbaruser.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\listbaruser.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_cut_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_friends.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bistarito.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\bistarito.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_groupsmsarea.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\groupsmsarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_singlenoticeimage.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_singlenoticeimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_book.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\phone_book.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_user.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\single_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedback_icon.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\feedback_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmentsetting.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragmentsetting.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_tanslatelrr.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\tanslatelrr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favorite_on.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\favorite_on.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_rating_star_on_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_sms.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\user_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right_sign.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\right_sign.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notice.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\notice.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background_dark.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_au.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\logo_au.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_user.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\no_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_call.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listbarnotice.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\listbarnotice.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_sms.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\home_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_notice.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\activity_single_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_translatebtr.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\anim\\translatebtr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listbar.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\listbar.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_userlist.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\fragment_userlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_favorite.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_selectall_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_gruop_sms_des_list.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\gruop_sms_des_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_paste_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_areabutton.xml.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\layout\\areabutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_share_material.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dof.png.flat",
+        "source": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\src\\main\\res\\drawable\\dof.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\sagor\\StudioProjects\\dofphonebook\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\sagor\\.gradle\\caches\\transforms-2\\files-2.1\\00486d5aded30cc8d7df321ca121ca97\\res\\color\\abc_search_url_text.xml"
+    }
+]
