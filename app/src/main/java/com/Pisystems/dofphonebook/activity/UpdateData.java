@@ -50,8 +50,8 @@ public class UpdateData extends Service {
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            System.out.println("http://digital-phonebook.com/service/get_contact_list" + "?last_update=" + date);
-            userInfo.execute("http://digital-phonebook.com/service/get_contact_list" + "?last_update=" + date);
+            System.out.println("http://aihub.com.bd/phonebook/api/get_contact_list" + "?last_update=" + date);
+            userInfo.execute("http://aihub.com.bd/phonebook/api/get_contact_list" + "?last_update=" + date);
 
 
             ///--area code
@@ -76,7 +76,7 @@ public class UpdateData extends Service {
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            areaCode.execute("http://digital-phonebook.com/service/get_areacode" + "?last_update=" + date);
+            areaCode.execute("http://aihub.com.bd/phonebook/api/get_areacode" + "?last_update=" + date);
 
 
             //area info
@@ -101,7 +101,7 @@ public class UpdateData extends Service {
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            areaInfo.execute("http://digital-phonebook.com/service/get_areainfo" + "?last_update=" + date);
+            areaInfo.execute("http://aihub.com.bd/phonebook/api/get_areainfo" + "?last_update=" + date);
 
             //designation
             final JSON designation =new JSON();
@@ -125,7 +125,7 @@ public class UpdateData extends Service {
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            designation.execute("http://digital-phonebook.com/service/get_designation" + "?last_update=" + date);
+            designation.execute("http://aihub.com.bd/phonebook/api/get_designation" + "?last_update=" + date);
         }
         return START_NOT_STICKY ;
     }

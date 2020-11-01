@@ -12,26 +12,34 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a12b7da-7970-4c20-bc83-87c5d12c9b70" name="Default Changelist" comment="">
+    <list default="true" id="2a12b7da-7970-4c20-bc83-87c5d12c9b70" name="Default Changelist" comment="pin added">
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$2.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$3.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$4.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0/com/Pisystems/dofphonebook/activity/FragmentDrawer.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/LQSel6n7xFACn58WKCwaJdmY410=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/LQSel6n7xFACn58WKCwaJdmY410=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer$RecyclerTouchListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/Pisystems/dofphonebook/activity/FragmentDrawer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/FragmentDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/FragmentDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/JSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/JSON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/MyNotice.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/MyNotice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/NoticeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/NoticeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/UpdateData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/UpdateData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604013187365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pin added">
+      <created>1604013681383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604013681383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,50 +165,54 @@
     <option name="LAST_COMMIT_MESSAGE" value="pin added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1036" y="403" key="#xdebugger.evaluate" timestamp="1604001325478">
+    <state x="1157" y="494" key="#xdebugger.evaluate" timestamp="1604210558946">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1036" y="403" key="#xdebugger.evaluate/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604001325478" />
-    <state x="688" y="269" key="CommitChangelistDialog2" timestamp="1604013173951">
+    <state x="1157" y="494" key="#xdebugger.evaluate/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210558946" />
+    <state x="688" y="269" key="CommitChangelistDialog2" timestamp="1604013676615">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="688" y="269" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013173951" />
-    <state width="2518" height="400" key="GridCell.Tab.0.bottom" timestamp="1604013591707">
+    <state x="688" y="269" key="CommitChangelistDialog2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013676615" />
+    <state width="2518" height="400" key="GridCell.Tab.0.bottom" timestamp="1604210573807">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013591707" />
-    <state width="2518" height="400" key="GridCell.Tab.0.center" timestamp="1604013591707">
+    <state width="2518" height="400" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210573807" />
+    <state width="2518" height="400" key="GridCell.Tab.0.center" timestamp="1604210573807">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013591707" />
-    <state width="2518" height="400" key="GridCell.Tab.0.left" timestamp="1604013591707">
+    <state width="2518" height="400" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210573807" />
+    <state width="2518" height="400" key="GridCell.Tab.0.left" timestamp="1604210573807">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013591707" />
-    <state width="2518" height="400" key="GridCell.Tab.0.right" timestamp="1604013591707">
+    <state width="2518" height="400" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210573807" />
+    <state width="2518" height="400" key="GridCell.Tab.0.right" timestamp="1604210573807">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013591707" />
-    <state width="2518" height="400" key="GridCell.Tab.1.bottom" timestamp="1604013587919">
+    <state width="2518" height="400" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210573807" />
+    <state width="2518" height="400" key="GridCell.Tab.1.bottom" timestamp="1604210572077">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013587919" />
-    <state width="2518" height="400" key="GridCell.Tab.1.center" timestamp="1604013587919">
+    <state width="2518" height="400" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210572077" />
+    <state width="2518" height="400" key="GridCell.Tab.1.center" timestamp="1604210572076">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013587919" />
-    <state width="2518" height="400" key="GridCell.Tab.1.left" timestamp="1604013587918">
+    <state width="2518" height="400" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210572076" />
+    <state width="2518" height="400" key="GridCell.Tab.1.left" timestamp="1604210572076">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013587918" />
-    <state width="2518" height="400" key="GridCell.Tab.1.right" timestamp="1604013587919">
+    <state width="2518" height="400" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210572076" />
+    <state width="2518" height="400" key="GridCell.Tab.1.right" timestamp="1604210572077">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2518" height="400" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013587919" />
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1604013190675">
+    <state width="2518" height="400" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604210572077" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1604013698857">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013190675" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604013698857" />
+    <state x="985" y="433" width="589" height="534" key="find.popup" timestamp="1604205158751">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="985" y="433" width="589" height="534" key="find.popup/-1920.0.1536.816/0.0.2560.1400@0.0.2560.1400" timestamp="1604205158751" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -202,6 +221,16 @@
           <url>file://$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/PhoneNumberValidation.java</url>
           <line>60</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/UpdateData.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/Pisystems/dofphonebook/activity/SplashActivity.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

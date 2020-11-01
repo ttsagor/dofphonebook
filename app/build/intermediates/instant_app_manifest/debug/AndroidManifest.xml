@@ -25,7 +25,8 @@
         android:label="Digital Phonebook (DoF)"
         android:largeHeap="true"
         android:testOnly="true"
-        android:theme="@style/MyMaterialTheme" >
+        android:theme="@style/MyMaterialTheme"
+        android:usesCleartextTraffic="true" >
         <activity
             android:name="com.Pisystems.dofphonebook.activity.MainActivity"
             android:label="Digital Phonebook(DoF)"
@@ -35,7 +36,8 @@
         <activity
             android:name="com.Pisystems.dofphonebook.activity.SplashActivity"
             android:label="Digital Phonebook (DoF)"
-            android:screenOrientation="portrait" >
+            android:screenOrientation="portrait"
+            android:usesCleartextTraffic="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

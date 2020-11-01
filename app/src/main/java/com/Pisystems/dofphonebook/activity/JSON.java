@@ -55,8 +55,6 @@ public class JSON extends AsyncTask <String,String,String>{
     int noticeID=0;
     @Override
     protected String doInBackground(String... params) {
-
-
         try{
             URL url = new URL(params[0]);
             connection = (HttpURLConnection) url.openConnection();
@@ -71,8 +69,12 @@ public class JSON extends AsyncTask <String,String,String>{
             }
             return buffer.toString();
         }
-        catch (MalformedURLException e){}
-        catch(IOException e){}
+        catch (MalformedURLException e){
+            e.printStackTrace();
+        }
+        catch(IOException e){
+            e.printStackTrace();
+        }
         finally {
             if(connection!=null){
                 connection.disconnect();
@@ -165,11 +167,11 @@ public class JSON extends AsyncTask <String,String,String>{
                     e.printStackTrace();
                 }
 
-                asyncTask.execute("http://digital-phonebook.com/service/get_notice_list" + "?last_update=" + date);
+                //asyncTask.execute("http://aihub.com.bd/phonebook/api/get_notice_list" + "?last_update=" + date);
                 //asyncTask.execute("http://service.digital-phonebook.com/noticeService.php" + "?date="+date);
             }
             catch (Exception e){}
-
+            SplashActivity.noticComplete = true;
         }
         else if(sendFeedBack)
         {
@@ -207,7 +209,10 @@ public class JSON extends AsyncTask <String,String,String>{
                         user.setLast_update(jsonObject.optString("last_update").toString());
                         db.insertOrReplaceUSER(user);
                     }
-                    catch (Exception e){}
+                    catch (Exception e) {
+                        System.out.println(arrJsonArray.getJSONObject(i).toString());
+                        e.printStackTrace();
+                    }
                     /// System.out.println("Node" + i + " : id= " + user.getUser_id() + "  Name= " + user.getUser_name_eng()+"  Salary= " +user.getPhone1() +" ");
                 }
             }
@@ -219,6 +224,7 @@ public class JSON extends AsyncTask <String,String,String>{
             }
             db.updateSystemInfoUpdating(MyDBHandler.COLUMN_userInfoUpdating, 0);
             //globalVariable.userInfoFlag=false;
+            SplashActivity.userInfoComplete=true;
         }
         else if(areaCode)
         {
@@ -255,6 +261,7 @@ public class JSON extends AsyncTask <String,String,String>{
             //globalVariable.areaCodeFlag=false;
             // System.out.println("areaCodeFlag "+ FragmentSettings.areaCodeFlag);
             //db.updateSystemInfo("area_code");
+            SplashActivity.areaCodeComplete=true;
         }
         else if(areaInfo)
         {
@@ -291,6 +298,7 @@ public class JSON extends AsyncTask <String,String,String>{
             // System.out.println("areaInfoFlag "+ FragmentSettings.areaInfoFlag);
 
             db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areainfoUpadting, 0);
+            SplashActivity.areaInfoComplete=true;
         }
         else if(designation)
         {
@@ -325,6 +333,7 @@ public class JSON extends AsyncTask <String,String,String>{
             }
             db.updateSystemInfoUpdating(MyDBHandler.COLUMN_designUpdating,0);
             // globalVariable.designationFlag=false;
+            SplashActivity.designationComplete=true;
         }
         else
         {

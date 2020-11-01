@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Oct 30 00:15:51 CET 2020
+#Fri Oct 30 00:21:57 CET 2020
 4.path=area_code.csv
 8.set=NATIVE_RESOURCE
 6.path=lib/x86/libvudroid.so

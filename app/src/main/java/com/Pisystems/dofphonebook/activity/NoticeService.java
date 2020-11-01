@@ -59,7 +59,7 @@ Notification foregroundNotification;
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            asyncTask.execute("http://digital-phonebook.com/service/get_notice_list" + "?last_update="+date);
+            asyncTask.execute("http://aihub.com.bd/phonebook/api/get_notice_list" + "?last_update="+date);
 
 
         }

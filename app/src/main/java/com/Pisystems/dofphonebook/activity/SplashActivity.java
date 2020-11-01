@@ -28,7 +28,10 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.util.ArrayList;
+import java.util.List;
 
 import com.Pisystems.dofphonebook.R;
 
@@ -38,6 +41,7 @@ public class SplashActivity extends AppCompatActivity {
     public static boolean areaCodeComplete=false;
     public static boolean designationComplete=false;
     public static boolean areaInfoComplete=false;
+    public static boolean noticComplete=false;
     public static ArrayList<User> allUser = new ArrayList<User>();
     public static ArrayList<areaCode> allArea = new ArrayList<areaCode>();
     public static ArrayList<Designation> allDesignation = new ArrayList<Designation>();
@@ -70,14 +74,14 @@ public class SplashActivity extends AppCompatActivity {
         t5.setTypeface(tf);
 
 
-        final Animation animationFadeIn = AnimationUtils.loadAnimation(this, R.anim.tranlatebt);
+        /*final Animation animationFadeIn = AnimationUtils.loadAnimation(this, R.anim.tranlatebt);
         image.startAnimation(animationFadeIn);
         image1.startAnimation(animationFadeIn);
         t1.startAnimation(animationFadeIn);
         t2.startAnimation(animationFadeIn);
         t3.startAnimation(animationFadeIn);
         t4.startAnimation(animationFadeIn);
-        t5.startAnimation(animationFadeIn);
+        t5.startAnimation(animationFadeIn);*/
         SystemInfo cSystemInfo = db.getSystemInfo();
         final Context mContext = this;
 
@@ -90,6 +94,7 @@ public class SplashActivity extends AppCompatActivity {
                 @Override
                 public void run() {
                     try {
+                        downloadData();
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_userInfoUpdating,0);
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areacodeUpadting,0);
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areainfoUpadting,0);
@@ -100,16 +105,13 @@ public class SplashActivity extends AppCompatActivity {
                         allArea =db.getAllArea();
                         int waited = 0;
                         // Splash screen pause time
-                        while (waited < 2000) {
-                            sleep(100);
-                            waited += 100;
-                        }
+
                         Intent intent = new Intent(SplashActivity.this,
                                 MainActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                         startActivity(intent);
                         SplashActivity.this.finish();
-                    } catch (InterruptedException e) {
+                    } catch (Exception e) {
                         // do nothing
                     } finally {
                         SplashActivity.this.finish();
@@ -127,6 +129,7 @@ public class SplashActivity extends AppCompatActivity {
                 @Override
                 public void run() {
                     try {
+                        downloadData();
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_userInfoUpdating,0);
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areacodeUpadting,0);
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areainfoUpadting,0);
@@ -137,16 +140,13 @@ public class SplashActivity extends AppCompatActivity {
                         allArea =db.getAllArea();
                         int waited = 0;
                         // Splash screen pause time
-                        while (waited < 2000) {
-                            sleep(100);
-                            waited += 100;
-                        }
+
                         Intent intent = new Intent(SplashActivity.this,
                                 MainActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                         startActivity(intent);
                         SplashActivity.this.finish();
-                    } catch (InterruptedException e) {
+                    } catch (Exception e) {
                         // do nothing
                     } finally {
                         SplashActivity.this.finish();
@@ -165,6 +165,7 @@ public class SplashActivity extends AppCompatActivity {
                 @Override
                 public void run() {
                     try {
+                        downloadData();
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_userInfoUpdating,0);
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areacodeUpadting,0);
                         db.updateSystemInfoUpdating(MyDBHandler.COLUMN_areainfoUpadting,0);
@@ -175,16 +176,13 @@ public class SplashActivity extends AppCompatActivity {
                         allArea =db.getAllArea();
                         int waited = 0;
                         // Splash screen pause time
-                        while (waited < 2000) {
-                            sleep(100);
-                            waited += 100;
-                        }
+
                         Intent intent = new Intent(SplashActivity.this,
                                 MainActivity.class);
                         intent.setFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
                         startActivity(intent);
                         SplashActivity.this.finish();
-                    } catch (InterruptedException e) {
+                    } catch (Exception e) {
                         // do nothing
                     } finally {
                         SplashActivity.this.finish();
@@ -199,100 +197,7 @@ public class SplashActivity extends AppCompatActivity {
             splashTread = new Thread() {
                 @Override
                 public void run() {
-
-                        ArrayList<String> areas = loadAssetTextAsString(mContext, "area_code.csv");
-                        ArrayList<String> users = loadAssetTextAsString(mContext, "user_info.csv");
-                        ArrayList<String> area_info = loadAssetTextAsString(mContext, "area_info.csv");
-                        ArrayList<String> designations = loadAssetTextAsString(mContext, "designation.csv");
-
-                        for (String area : areas) {
-                            String[] separated = area.split(";");
-                            areaCode cArea = new areaCode();
-                            cArea.setAreaID(Integer.parseInt(separated[0]));
-                            cArea.setParentID(Integer.parseInt(separated[1]));
-                            cArea.setAreaName(separated[3]);
-                            cArea.setActive_stat(Integer.parseInt(separated[4]));
-                            cArea.setLast_update(separated[5]);
-                            cArea.setAreaNameEng(separated[2]);
-                            try {
-                                db.insertArea(cArea);
-                            } catch (Exception e) {
-                                System.out.println("ERROR IN:area" + e.toString());
-                            }
-                        }
-
-                        System.out.println("area_info....");
-                        for (String area : area_info) {
-                            String[] separated = area.split(";");
-                            area_info cArea = new area_info();
-                            cArea.setArea_id(Integer.parseInt(separated[0]));
-                            cArea.setArea_details(separated[1]);
-                            cArea.setArea_location(separated[2]);
-                            cArea.setActive_stat(Integer.parseInt(separated[3]));
-                            cArea.setLast_update(separated[4]);
-                            cArea.setAddress(separated[5]);
-
-
-                            try {
-                                db.insertAreaInfo(cArea);
-                            } catch (Exception e) {
-                                System.out.println("ERROR IN:" + e.toString());
-                            }
-                        }
-
-                        System.out.println("users....");
-                        for (String user : users) {
-                            String[] separated = user.split(";");
-                            User cUser = new User();
-                            cUser.setUser_id(Integer.parseInt(separated[0]));
-                            cUser.setUser_name(separated[2]);
-                            cUser.setDesignation(separated[3]);
-                            cUser.setArea_id(Integer.parseInt(separated[4]));
-                            cUser.setPhone1(separated[5]);
-                            cUser.setPhone2(separated[6]);
-                            cUser.setOffice_num(separated[7]);
-                            cUser.setEmail(separated[8]);
-                            cUser.setActive_stat(Integer.parseInt(separated[9]));
-                            cUser.setLast_update(separated[10]);
-                            cUser.setUser_name_eng(separated[1]);
-                            //System.out.println(cUser.getUser_id());
-                            try {
-                                db.insertUser(cUser);
-
-                            } catch (Exception e) {
-                                Log.e("ERROR", e.toString());
-                            }
-                        }
-
-                        System.out.println("designations....");
-                        for (String designation : designations) {
-
-                            String[] separated = designation.split(";");
-                            Designation desOBJ = new Designation();
-                            desOBJ.setDesign_id(Integer.parseInt(separated[0]));
-                            desOBJ.setDesign_en(separated[1]);
-                            desOBJ.setDesign_bn(separated[2]);
-                            desOBJ.setDesign_rank(separated[3]);
-                            desOBJ.setActive_stats(Integer.parseInt(separated[4]));
-                            desOBJ.setLast_update(separated[5]);
-
-                            try {
-                                db.insertDesignation(desOBJ);
-
-                            } catch (Exception e) {
-                                System.out.println("ERROR IN:" + e.toString());
-                            }
-                            // System.out.println(separated[0]+"/"+separated[1]+"/"+separated[3]+"/"+separated[4]+"/"+separated[5]+"/");
-                        }
-                        if(isNetworkAvailable()) {
-                            areaInfoComplete = true;
-                            areaCodeComplete= true;
-                            designationComplete = true;
-                            userInfoComplete = true;
-
-                            Intent i = new Intent(SplashActivity.this, UpdateData.class);
-                            startService(i);
-                        }
+                    downloadData();
                     allArea =db.getAllArea();
                     allDesignation =db.getAllDesignation();
                     allUser = db.getAllUser();
@@ -300,11 +205,24 @@ public class SplashActivity extends AppCompatActivity {
                             PhoneNumberValidation.class);
                     startActivity(intent);
                     SplashActivity.this.finish();
+
                 }
             };
             splashTread.start();
+        }
+    }
 
+    void downloadData() {
+        updateDataContacts();
+        updateDataAreacode();
+        updateDataAreaInfo();
+        updateDataDesignation();
+        updateDataNotic();
 
+        while (true) {
+            if (noticComplete && areaInfoComplete && areaCodeComplete && designationComplete && userInfoComplete) {
+                break;
+            }
         }
     }
 
@@ -381,5 +299,106 @@ public class SplashActivity extends AppCompatActivity {
     public void onPause() {
         super.onPause();
         Runtime.getRuntime().gc();
+    }
+
+
+    public void updateDataContacts() {
+        final MyDBHandler db = new MyDBHandler(getBaseContext(),null,null,1);
+        SystemInfo systemInfo = db.getSystemInfo();
+        final JSON asyncTask =new JSON();
+        asyncTask.userInfo=true;
+        asyncTask.db=db;
+        asyncTask.mContex=getApplicationContext();
+        String date="";
+        try {
+            if (systemInfo.getUserLastUpdate() != null) {
+                date = URLEncoder.encode(systemInfo.getUserLastUpdate(), "UTF-8");
+            } else {
+                date = URLEncoder.encode("2010-04-01 00 00 00", "UTF-8");
+            }
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        asyncTask.execute("http://aihub.com.bd/phonebook/api/get_contact_list" + "?last_update="+date);
+    }
+
+    public void updateDataAreacode() {
+        final MyDBHandler db = new MyDBHandler(getBaseContext(),null,null,1);
+        SystemInfo systemInfo = db.getSystemInfo();
+        final JSON asyncTask =new JSON();
+        asyncTask.areaCode=true;
+        asyncTask.db=db;
+        asyncTask.mContex=getApplicationContext();
+        String date="";
+        try {
+            if (systemInfo.getAreaCodeLastUpdate() != null) {
+                date = URLEncoder.encode(systemInfo.getAreaCodeLastUpdate(), "UTF-8");
+            } else {
+                date = URLEncoder.encode("2010-04-01 00 00 00", "UTF-8");
+            }
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        asyncTask.execute("http://aihub.com.bd/phonebook/api/get_areacode" + "?last_update="+date);
+    }
+
+    public void updateDataAreaInfo() {
+        final MyDBHandler db = new MyDBHandler(getBaseContext(),null,null,1);
+        SystemInfo systemInfo = db.getSystemInfo();
+        final JSON asyncTask =new JSON();
+        asyncTask.areaInfo=true;
+        asyncTask.db=db;
+        asyncTask.mContex=getApplicationContext();
+        String date="";
+        try {
+            if (systemInfo.getAreaInfoLastUpdate() != null) {
+                date = URLEncoder.encode(systemInfo.getAreaInfoLastUpdate(), "UTF-8");
+            } else {
+                date = URLEncoder.encode("2010-04-01 00 00 00", "UTF-8");
+            }
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        asyncTask.execute("http://aihub.com.bd/phonebook/api/get_areainfo" + "?last_update="+date);
+    }
+
+    public void updateDataDesignation() {
+        final MyDBHandler db = new MyDBHandler(getBaseContext(),null,null,1);
+        SystemInfo systemInfo = db.getSystemInfo();
+        final JSON asyncTask =new JSON();
+        asyncTask.designation=true;
+        asyncTask.db=db;
+        asyncTask.mContex=getApplicationContext();
+        String date="";
+        try {
+            if (systemInfo.getDesignationLastUpdate() != null) {
+                date = URLEncoder.encode(systemInfo.getDesignationLastUpdate(), "UTF-8");
+            } else {
+                date = URLEncoder.encode("2010-04-01 00 00 00", "UTF-8");
+            }
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        asyncTask.execute("http://aihub.com.bd/phonebook/api/get_designation" + "?last_update="+date);
+    }
+
+    public void updateDataNotic() {
+        final MyDBHandler db = new MyDBHandler(getBaseContext(),null,null,1);
+        SystemInfo systemInfo = db.getSystemInfo();
+        final JSON asyncTask =new JSON();
+        asyncTask.noticeService=true;
+        asyncTask.db=db;
+        asyncTask.mContex=getApplicationContext();
+        String date="";
+        try {
+            if (systemInfo.getNoticeLastUpdate() != null) {
+                date = URLEncoder.encode(systemInfo.getNoticeLastUpdate(), "UTF-8");
+            } else {
+                date = URLEncoder.encode("2010-04-01 00 00 00", "UTF-8");
+            }
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
+        asyncTask.execute("http://aihub.com.bd/phonebook/api/get_notice_list" + "?last_update="+date);
     }
 }

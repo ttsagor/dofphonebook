@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
             try {
                 Intent i = new Intent(this, MyService.class);
                 i.setAction(Constants.ACTION.STARTFOREGROUND_ACTION);
-                startService(i);
+                //startService(i);
             } catch (Exception e) {
 
             }
